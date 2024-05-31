@@ -7,3 +7,5 @@ tags: [C++, Design Pattern]
 category: C++
 draft: false 
 ---
+# 
+## 
